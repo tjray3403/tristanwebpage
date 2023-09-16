@@ -34,7 +34,7 @@ function Cards() {
               src={mec}
               text='Mecano Tech, Inc.'
               label='HTML/CSS/JS/PHP'
-              path='https://github.com/tjray3403'
+              path='https://www.mecano-tech.com/'
             />
 
             <CardItem
